@@ -1,0 +1,11 @@
+.linea{
+    text-decoration: line-through;
+}
+
+.boton{
+    float: right;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 20px 10px 5px;
+}
